@@ -2561,3 +2561,21 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+<!-- project-structure -->
+## Project structure
+
+```text
+├── .github/
+├── .gitignore
+├── CONTRIBUTING.md
+├── LICENSE
+├── README-fa-ir.md
+├── README-ja.md
+├── README-ko.md
+├── README-pt_BR.md
+├── README-th.md
+├── README-zh.md
+├── README-zh_TW.md
+└── README.md
+```
